@@ -4,6 +4,8 @@ public class Constants
 {
   public static final String HBASE_ZOOKEEPER_QUORUM = "hbase.zookeeper.quorum";
   
+  public static final String NAVEEN = "Naveen";
+  
   public static final String HBASE_ZOOKEEPER_QUORUM_VALUE = "vmadhire-2.novalocal,vmadhire-3.novalocal,vmadhire-4.novalocal";
   
   public static final String HBASE_ZOOKEEPER_CLIENT_PORT = "hbase.zookeeper.property.clientPort";
